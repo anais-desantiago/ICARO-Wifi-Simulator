@@ -1,0 +1,6 @@
+1. Esto es la pregunta 1 y quiero saber hasta dónde guarda el array cuando hay más de una línea es 
+por eso que estoy escribiendo estas cosas para ver qué pasa. 
+2. Esta es la pregunta 2. 
+3. Esta es la pregunta 3. 
+4. Esta es la pregunta 4. 
+5. Esta es la pregunta 5. 

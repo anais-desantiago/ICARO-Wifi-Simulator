@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+        <tocitem text="ICARO Wi-Fi Simulator"    target="principal">
+           <tocitem text="Ventana principal"    target="ppal"/>
+		   <tocitem text="Redes de Infraestructura"    target="infraestructura">
+				<tocitem text="Creación de Red de Infraestructura"    target="redInfra"/>
+				<tocitem text="Conexión de las Estaciones en Infraestructura"    target="staInfra"/>
+		   </tocitem>
+           <tocitem text="Redes Ad-hoc"    target="adhoc">
+				<tocitem text="Creación de Red Ad-hoc"    target="redAdhoc"/>
+				<tocitem text="Conexión de las Estaciones en Ad-hoc"    target="staAdhoc"/>
+		   </tocitem>
+        </tocitem>
+</toc>

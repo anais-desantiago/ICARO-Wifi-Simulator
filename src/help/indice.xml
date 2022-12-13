@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+        <indexitem text="ICARO Wi-Fi Simulator"    target="principal">
+			<indexitem text="Ventana principal"    target="ppal"/>
+			<indexitem text="Redes de Infraestructura"   target="infraestructura">
+				<indexitem text="Creación de Red de Infraestructura"    target="redInfra"/>
+				<indexitem text="Conexión de las Estaciones en Infraestructura"    target="staInfra"/>
+			</indexitem>
+			<indexitem text="Redes Ad-hoc"    target="adhoc">
+				<indexitem text="Creación de Red Ad-hoc"    target="redAdhoc"/>
+				<indexitem text="Conexión de las Estaciones en Ad-hoc"    target="staAdhoc"/>
+			</indexitem>
+		</indexitem>
+</index>
